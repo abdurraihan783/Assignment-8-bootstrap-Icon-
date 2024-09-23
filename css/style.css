@@ -1,0 +1,12 @@
+container{
+	width: 50%;
+} 
+.bi-watch{
+	color: blue;
+}
+.bi-smartwatch{
+	color: green;
+}
+.bi-stopwatch{
+	color: aqua;
+}
